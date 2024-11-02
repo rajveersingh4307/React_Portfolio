@@ -1,41 +1,23 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "UI/UX",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
-    ],
-    "imageSrc": "company/google.png"
+      "Welcome to my portfolio! I’m a passionate UI/UX designer dedicated to creating intuitive, engaging, and aesthetically pleasing digital experiences. With a deep understanding of user-centered design principles and a keen eye for detail, I strive to transform complex challenges into simple, elegant solutions."
+    ]
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role":"Web Design",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
-    ],
-    "imageSrc": "company/microsoft.png"
+      "As a passionate and innovative web designer, I specialize in creating visually stunning and highly functional websites that provide a seamless user experience. With a strong foundation in both graphic design and coding, I blend artistic creativity with technical proficiency to deliver custom web solutions that meet each client's unique needs. "
+    ]
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Problem Solving",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "company/netflix.png"
+      "As a dedicated problem solver, I excel in identifying challenges and devising innovative solutions that streamline processes and enhance efficiency. With a keen analytical mind and a detail-oriented approach, I tackle complex issues by breaking them down into manageable components, ensuring a thorough understanding of each aspect before proposing a strategy"
+    ]
   }
 ]
